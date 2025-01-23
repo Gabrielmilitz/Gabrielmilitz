@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Gabrielmilitz
+- 👋 Hi, I’m @gabrielmilitz 
 - 👀 I’m interested in Linux 
 - 🌱 I’m currently learning python and java
-- 😄 Pronouns: ahh.. hmm.. ann... ops
+- 😄 Pronouns: ahh.. hmm Angelusdev for all
   
 
 <!---
