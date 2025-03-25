@@ -2,7 +2,7 @@
 
 
 
-- 👀 **Interesses**: Tenho interesse em **Linux**, programação e novas tecnologias.
+- 👀 **Interesses**: Tenho interesse em **Linux, python e automação 
 - 🌱 **Atualmente estou aprendendo**: **Python** e **Java**.
 - 😄 **Pronomes**: Você pode me chamar de **Angelusdev** em qualquer contexto!
 
