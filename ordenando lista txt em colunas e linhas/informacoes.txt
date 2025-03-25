@@ -1,0 +1,8 @@
+Nome,idade,funcao,setor
+pablo,23,motorista,A
+igor,24,motorista,B
+Lucius,23,motorista,B
+Valdemort,24,motorista,B
+luciana,24,motorista,B
+Andre,56,cozinheiro,C
+
