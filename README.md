@@ -1,17 +1,10 @@
-# 👋 Olá, eu sou @gabrielmilitz
+Olá, como está? Sou o Gabriel! Quando não estou jogando Elden Ring provavelmente estarei aqui, isso é, totalmente focando em aprimorar minhas habilidade em:
+ 
+-  **Python**
+-  **Java**
+-  **Administração e uso de sistemas Linux**
 
+  Quer troca uma ideia? 
 
-
-- 👀 **Interesses**: Tenho interesse em **Linux, python e automação 
-- 🌱 **Atualmente estou aprendendo**: **Python** e **Java**.
-- 😄 **Pronomes**: Você pode me chamar de **Angelusdev** em qualquer contexto!
-
----
-
-# 👋 Hi, I’m @gabrielmilitz
-
-
-- 👀 **Interests**: I'm interested in **Linux**, programming, and new technologies.
-- 🌱 **Currently learning**: **Python** and **Java**.
-- 😄 **Pronouns**: You can refer to me as **Angelusdev** in any context!
+  gabrielmarinmiltiz@gmail.com
 
